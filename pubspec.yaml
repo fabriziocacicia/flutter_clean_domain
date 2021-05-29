@@ -6,20 +6,14 @@ publish_to: 'none'
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
-
   equatable: ^2.0.0
 
   # Functional programming
   dartz: ^0.10.0-nullsafety.2
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   # Linting and Code analysis
   dart_lint_rules:
     git:
@@ -29,4 +23,3 @@ dev_dependencies:
   # Testing
   test: ^1.22.0
 
-flutter:
