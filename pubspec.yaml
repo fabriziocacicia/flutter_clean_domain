@@ -1,6 +1,6 @@
 name: flutter_clean_domain
 description: A plugin that provides core elements for implementing the domain layer of a Clean Architecture app
-version: 1.1.0
+version: 1.2.0
 
 publish_to: 'none'
 
