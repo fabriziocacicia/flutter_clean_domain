@@ -1,6 +1,0 @@
-name: value_object
-description: A brick that creates a value object, a validator and a valure failure.
-vars:
-  - snake_case_name
-  - class_name
-  - type
