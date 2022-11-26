@@ -18,5 +18,5 @@ dev_dependencies:
   dart_lint_rules:
     git:
       url: git@github.com:fabriziocacicia/dart_lint_rules.git
-      ref: v0.0.2
+      ref: v0.1.0
 
