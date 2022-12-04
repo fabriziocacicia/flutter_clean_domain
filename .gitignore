@@ -11,6 +11,7 @@
 # IntelliJ
 out/
 *.iml
+*.ipr
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -39,11 +40,11 @@ Icon
 
 # Files and directories created by pub.
 .dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
 .packages
 .pub-cache/
 .pub/
+
+# Conventional directory for build outputs.
 build/
 
 # Omit committing pubspec.lock for library packages; see
