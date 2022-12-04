@@ -21,3 +21,6 @@ dev_dependencies:
       url: git@github.com:fabriziocacicia/dart_lint_rules.git
       ref: v0.1.0
 
+  # Testing
+  test: ^1.21.5
+
